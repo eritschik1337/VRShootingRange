@@ -1,4 +1,0 @@
-Breadcrumbs 'RHIThread'
-Context 1/2
-	00 FLightmassMaterialRenderer MI_Grid_Accent
-	01 DrawTileMesh
