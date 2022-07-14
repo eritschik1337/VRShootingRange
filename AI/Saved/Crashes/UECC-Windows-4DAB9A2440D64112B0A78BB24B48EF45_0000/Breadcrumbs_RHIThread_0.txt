@@ -1,4 +1,0 @@
-Breadcrumbs 'RHIThread'
-Context 1/2
-	00 FLightmassMaterialRenderer M_Rock_Marble_Polished
-	01 DrawTileMesh
